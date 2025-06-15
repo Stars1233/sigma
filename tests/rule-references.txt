@@ -4029,3 +4029,17 @@ https://strontic.github.io/xcyclopedia/library/aclui.dll-F883E9CA757B622B032FDCA
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/
 https://web.archive.org/web/20220519091349/https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://learn.microsoft.com/en-us/iis/configuration/system.webserver/httplogging
+https://www.crushftp.com/crush11wiki/Wiki.jsp?page=Update
+https://cloud.google.com/blog/topics/threat-intelligence/unc3944-targets-saas-applications
+https://tria.ge/231212-r1bpgaefar/behavioral2
+https://research.checkpoint.com/2023/rhadamanthys-v0-5-0-a-deep-dive-into-the-stealers-components/
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4
+https://gtfobins.github.io/gtfobins/find/#shell
+https://gtfobins.github.io/gtfobins/nawk/#shell
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4794
+https://strontic.github.io/xcyclopedia/library/vbc.exe-A731372E6F6978CE25617AE01B143351.html
+https://intel.thedfirreport.com/events/view/30032
+https://thedfirreport.com/2025/01/27/cobalt-strike-and-a-pair-of-socks-lead-to-lockbit-ransomware/
+https://github.com/embedi/CVE-2017-11882
+https://web.archive.org/web/20221204161143/https://www.glitch-cat.com/p/green-lambert-and-attack
